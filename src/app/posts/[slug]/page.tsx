@@ -8,6 +8,7 @@ import Container from "../../_components/container";
 import Header from "../../_components/header";
 import { PostBody } from "../../_components/post-body";
 import { PostHeader } from "../../_components/post-header";
+import Footer from "@/app/_components/footer";
 
 export default async function Post({ params }: Params) {
   const post = getPostBySlug(params.slug);
@@ -20,7 +21,6 @@ export default async function Post({ params }: Params) {
 
   return (
     <main>
-      <Alert preview={post.preview} />
       <Container>
         <Header />
         <article className="mb-32">
@@ -33,6 +33,7 @@ export default async function Post({ params }: Params) {
           <PostBody content={content} />
         </article>
       </Container>
+      <Footer />
     </main>
   );
 }
