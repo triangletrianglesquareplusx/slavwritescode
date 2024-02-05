@@ -6,6 +6,9 @@ date: "2024-02-02T05:35:07.322Z"
 author:
   name: Preslav Getov
   picture: "/assets/blog/authors/slav.jpeg"
+artistAttr:
+  name: Samuel Austin
+  url: https://unsplash.com/@samaustin
 ogImage:
   url: "/assets/blog/reflection-on-past-year/cover.jpg"
 ---
