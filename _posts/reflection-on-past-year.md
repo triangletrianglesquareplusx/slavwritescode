@@ -12,7 +12,7 @@ ogImage:
 
 This past year was filled with lots of situations for me to learn from. As a junior software developer it has never been more difficult to find a job and at the same time resources have never been so abundant.
 
-With the advent of AI and its utilization in all areas of human endeavor I think it makes sense for anyone interested in tacking a crack at software development to get some advice and reflection from a junior who already has had their first year of commercial experience. Oh and to add to the believability factor, my contract was not renewed.
+With the advent of AI and its utilization in all areas of human endeavor I think it makes sense for anyone interested in taking a crack at software development to get some advice and reflection from a junior who already has had their first year of commercial experience. Oh and to add to the believability factor, my contract was not renewed.
 
   - Bank on your career, no one else cares about it
     - Make sure that you are **constantly thinking** about how your can improve your career opportunities within your company. If you yourself don't care about it - how do you expect someone else to?
